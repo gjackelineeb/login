@@ -67,13 +67,13 @@ flutter:
   fonts:
     - family: Bebas
       fonts:
-        asset: assets/fonts/BebasNeue-Regular.ttf
+        - asset: assets/assets/fonts/BebasNeue-Regular.ttf
     - family: Lobster
-        fonts:
-          asset: assets/fonts/Lobster-Regular.ttf
+      fonts:
+          - asset: assets/assets/fonts/Lobster-Regular.ttf
     - family: Signatra
-        fonts:
-          asset: assets/fonts/Signatra.ttf
+      fonts:
+          - asset: assets/assets/fonts/Signatra.ttf
     - family: Varela
-        fonts:
-          asset: assets/fonts/VarelaRound-Regular.ttf
+      fonts:
+          - asset: assets/assets/fonts/VarelaRound-Regular.ttf

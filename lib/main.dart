@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:login/splashScreen/splash_screen.dart';
 
 Future<void> main() async
 {
@@ -19,7 +20,10 @@ class MyApp extends StatelessWidget {
 
         primarySwatch: Colors.blue,
       ),
-      home:
+      home: const MySplashScreen(),
+
+
+
     );
   }
 }
