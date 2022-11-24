@@ -36,12 +36,12 @@ class _MySplashScreenState extends State<MySplashScreen>
             child: Column(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
-                Image.asset("images/splash.jpg"),
+                Image.asset("images/logo.jpg"),
                 SizedBox(height: 10,),
                 Padding(
-                  padding: const EdgeInsets.all(18.0),
+                  padding: const EdgeInsets.all(10.0),
                   child: Text(
-                    "Sell food",
+                    "Gestion de Restaurante",
                     textAlign: TextAlign.center,
                     style: TextStyle(
                       color: Colors.black54,

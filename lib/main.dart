@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
 
     return MaterialApp(
-      title: 'Restaurant App ',
+      title: 'Restaurant App',
       theme: ThemeData(
 
         primarySwatch: Colors.blue,
